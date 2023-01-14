@@ -2,7 +2,7 @@
  *
  * Header code starts
  */
-let backendBaseUrl = `http://localhost:3400`;
+let backendBaseUrl = `https://brick-red-mussel-hem.cyclic.app`;
 async function searchKeyUp(event) {
   let keyword = event.currentTarget.value;
 
